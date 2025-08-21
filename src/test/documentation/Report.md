@@ -40,8 +40,36 @@
 **Esperado:** Excepción
 **Resultado:** Pasó
 
-**Total Pruebas:** 5
-**Pasaron:** 5
+**ID:** TC06
+**Método de prueba:** testSumException
+**Descripción:** Manejo letras o simbolos
+**Entrada:** 2 + s
+**Esperado:** Excepción
+**Resultado:** Pasó
+
+**ID:** TC07
+**Método de prueba:** testSubtractException
+**Descripción:** Manejo letras o simbolos
+**Entrada:** 2 - r
+**Esperado:** Excepción
+**Resultado:** Pasó
+
+**ID:** TC08
+**Método de prueba:** testMultiplyException
+**Descripción:** Manejo letras o simbolos
+**Entrada:** 2 * m
+**Esperado:** Excepción
+**Resultado:** Pasó
+
+**ID:** TC09
+**Método de prueba:** testDivideException
+**Descripción:** Manejo letras o simbolos
+**Entrada:** 2 / d
+**Esperado:** Excepción
+**Resultado:** Pasó
+
+**Total Pruebas:** 9
+**Pasaron:** 9
 **Fallaron:** 0
 **Bugs:** 0
 **Estado:** Todas las operaciones básicas de Calculator funcionan correctamente
